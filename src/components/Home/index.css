@@ -1,0 +1,26 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.user-info-container {
+  text-align: center;
+}
+.user-profile-image {
+  height: 100px;
+  width: 100px;
+}
+.user-name {
+  font-family: Roboto;
+  font-size: 20px;
+  color: #12022f;
+  text-align: center;
+}
+.user-role {
+  font-family: Roboto;
+  font-size: 17px;
+  color: #9aa5b1;
+  text-align: center;
+}

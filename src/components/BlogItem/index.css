@@ -1,0 +1,25 @@
+.blog-item-container {
+  padding: 10px;
+  margin: 10px;
+}
+
+.post-name-publish {
+  display: flex;
+  justify-content: space-between;
+}
+
+.post-name {
+  font-family: Roboto;
+  font-size: 23px;
+  color: #12022f;
+}
+.post-publish {
+  font-family: Roboto;
+  font-size: 18px;
+  color: #9aa5b1;
+}
+.post-description {
+  font-family: Roboto;
+  font-size: 18px;
+  color: #616e7c;
+}
